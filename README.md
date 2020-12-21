@@ -9,7 +9,7 @@ In this activity, I create a new React-based Google Books Search app. It's requi
 <li>Heroku link: https://books-search-go.herokuapp.com/</li>
 
 ## Output 
-Here is the [Video]() that shows entire page.<br>
+Here is the [Video](https://drive.google.com/file/d/1K-Og6mIF41m1MZMQxsT1qTrKw6KGGF6-/view?usp=sharing) that shows entire page.<br>
 
 The final page will be look like as below image.
 
